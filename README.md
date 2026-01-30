@@ -10,7 +10,7 @@ The goal was to quantify impact beyond basic box scores and visualize how these 
 ![Overview Dashboard](images/Overview.png)
 ![Individual Player Dashboard](images/Individual_Player.png)
 
-####Features
+#### Features
 * Implemented dashboard actions that allow for seamless transitions from the overview page, individual players, and glossary of terms
 * Integrated global filters for Year and Season Type
 * Developed a dynamic metric selector to toggle between Points, Assists, Rebounds, Steals, Blocks, and Turnovers Per Game on the individual players page
