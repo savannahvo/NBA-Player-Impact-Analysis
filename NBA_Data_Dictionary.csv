@@ -1,0 +1,24 @@
+﻿Term,Category,Definition
+Impact Score,Custom,"A normalized measure of overall season-level impact. Calculated by summing the percentile ranks of PER, BPM, and WS: Impact Score = PR(adv_PER) + PR(adv_BPM) + PR(adv_WS)."
+Age Curve Index,Custom,Measures performance relative to a player's own peak efficiency. Scales PER between 0 and 1 using the player's career-high PER: Age Curve Index = adv_PER/max(adv_PER).
+Clutch,General,Statistics recorded during the final 5 minutes of a game when the score differential is 5 points or less.
+Advanced Player Efficiency Rating (PER),Advanced,A rating of a player's per-minute productivity.
+Advanced Box Plus/Minus,Advanced,A box score estimate of the points per 100 possessions a player contributed above a league-average player.
+Advanced Win Shares,Advanced,An estimate of the number of wins contributed by a player.
+Advanced Win Shares Per 48 Minutes,Advanced,An estimate of the number of wins contributed by a player per 48 minutes (league avg is ~0.100).
+Advanced True Shooting Percentage,Advanced,"A measure of shooting efficiency that takes into account field goals, 3-point field goals, and free throws."
+Advanced Usage Percentage,Advanced,An estimate of the percentage of team plays used by a player while they are on the floor.
+Advanced Assist Percentage,Advanced,An estimate of the percentage of teammate field goals a player assisted while on the floor.
+Advanced Total Rebound Percentage,Advanced,An estimate of the percentage of available rebounds a player grabbed while on the floor.
+Clutch Field Goal Percentage,Clutch,Field Goal Percentage during clutch time.
+Clutch Points Per 36,Clutch,"Points scored during clutch time, normalized to 36 minutes of play."
+Clutch Assists Per 36,Clutch,"Assists recorded during clutch time, normalized to 36 minutes of play."
+Per Game Points,Per Game,Average Points scored per game.
+Per Game Assists,Per Game,Average Assists recorded per game.
+Per Game Total Rebounds,Per Game,Average Total Rebounds recorded per game.
+Per Game Steals,Per Game,Average Steals recorded per game.
+Per Game Blocks,Per Game,Average Blocks recorded per game.
+Per Game Turnovers,Per Game,Average Turnovers recorded per game.
+Per Game Field Goal Percentage,Per Game,Overall Field Goal Percentage per game.
+Per Game 3 Point Percentage,Per Game,Three-Point Field Goal Percentage per game.
+Per Game Free Throw Percentage,Per Game,Free Throw Percentage per game.
