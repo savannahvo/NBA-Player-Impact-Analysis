@@ -10,7 +10,7 @@ The goal was to quantify impact beyond basic box scores and visualize how these 
 ![Overview Dashboard](images/Overview.png)
 ![Individual Player Dashboard](images/Individual_Player.png)
 
-#### Features
+### Features
 * Implemented dashboard actions that allow for seamless transitions from the overview page, individual players, and glossary of terms
 * Integrated global filters for Year and Season Type
 * Developed a dynamic metric selector to toggle between Points, Assists, Rebounds, Steals, Blocks, and Turnovers Per Game on the individual players page
@@ -32,5 +32,9 @@ The goal was to quantify impact beyond basic box scores and visualize how these 
 ---
 ## Technical Stack & Methodology
 * **Data Collection**: Python (`BeautifulSoup`, `requests`) used to web-scrape career-long advanced and per game statistics from [Basketball Reference](https://www.basketball-reference.com/). Career-long clutch statistics were collected manually on an excel sheet from the official [NBA](https://www.nba.com/) website.
-* **Data Engineering**: Cleaned and normalized disparate datasets using `Pandas`. Created a custom Impact Score feature (sum of the Percentile Ranks of PER, Box Plus-Minus, and Win Shares) and Age Curve Index (scaled a player's annual PER against their career-high PER).
-* **Visualization**: Developed a interactive Tableau dashboard to analyze the summary of top 5 NBA players along with an analysis on each player individually. 
+* **Data Engineering**: Cleaned and normalized disparate datasets using `Pandas` and `NumPy`. Created a custom Impact Score feature (sum of the Percentile Ranks of PER, Box Plus-Minus, and Win Shares) and Age Curve Index (scaled a player's annual PER against their career-high PER).
+* **Visualization**: Developed a interactive Tableau dashboard to analyze the summary of top 5 NBA players along with an analysis on each player individually. `Plotly` used for specialized visualizations like Sankey Diagrams, Radar Charts, and Ternary Plots.
+
+---
+# Contact
+**Email**: savannahlevo@gmail.com || [LinkedIn](https://www.linkedin.com/in/savannahlevo/)
