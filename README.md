@@ -10,7 +10,13 @@ The goal was to quantify impact beyond basic box scores and visualize how these 
 ![Overview Dashboard](images/Overview.png)
 ![Individual Player Dashboard](images/Individual_Player.png)
 
-
+####Features
+* Implemented dashboard actions that allow for seamless transitions from the overview page, individual players, and glossary of terms
+* Integrated global filters for Year and Season Type
+* Developed a dynamic metric selector to toggle between Points, Assists, Rebounds, Steals, Blocks, and Turnovers Per Game on the individual players page
+* Designed the view for the individual players page to allow for specific player selection
+* Glossary of Terms page provides clear definitions of data used and complex custom features
+   
 ---
 ## Key Insights
 **Nikola Jokic's** role not only grew, but it fundamentally shifted. In 2015, his assist percentage was 18.1%. By 2025, it skyrocketed to 53.1%. He isn't just a "big man" who scores; he has become the primary player of the offense. He combines high basketball IQ, historic efficency, and playmaking ability in a way the league has never seen from a center. His value only increases in the playoffs (PPG jumps from 22.6 to 27.8), where his production, efficiency, and decision-making remain dominant against the highest level of competition. Unlike most superstars who rely on athleticism, Jokic dictates, pace, punishes every defense coverage, and leaves no exploitable weanesses, making him the most reliable and impactful player in basketball.
