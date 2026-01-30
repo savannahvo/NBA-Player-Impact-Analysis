@@ -1,7 +1,7 @@
 # NBA Player Impact Analysis
 
 ## Overview
-When is an NBA player truly at their peak? This project analyzes the career trajectories of the top 5 NBA players from the [2025 ESPN rankings](https://www.espn.com/nba/story/_/id/46306892/nba-rank-2025-rankings-top-10-players-jokic-durant-lebron), posted on September of 2025 (Nikola Jokić, Shai Gilgeous-Alexander, Luka Dončić, Giannis Antetokounmpo, and Victor Wembanyama).
+This project analyzes when and how the NBA's current top 5 NBA players from the [2025 ESPN rankings](https://www.espn.com/nba/story/_/id/46306892/nba-rank-2025-rankings-top-10-players-jokic-durant-lebron), posted on September of 2025 (Nikola Jokić, Shai Gilgeous-Alexander, Luka Dončić, Giannis Antetokounmpo, and Victor Wembanyama) were the most impactful, and how their roles evolved over time.
 
 The goal was to quantify impact beyond basic box scores and visualize how these superstars transitioned their roles (e.g., from scorers to facilitators) to maintain elite efficiency.
 
