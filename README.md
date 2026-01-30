@@ -8,7 +8,7 @@ The goal was to quantify impact beyond basic box scores and visualize how these 
 [Multi-metric Analysis of the Top 5 NBA Players Dashboard](https://public.tableau.com/app/profile/savannah.vo4280/viz/Top5NBAPlayers/IndividualPlayerAnalysis?publish=yes)
 
 ![Overview Dashboard](images/Overview.png)
-![Individual Player Dashboard](images/Individual Player.png)
+![Individual Player Dashboard](images/Individual_Player.png)
 
 
 ---
